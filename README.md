@@ -1,4 +1,4 @@
-![image](https://github.com/712346867/ttrss-cubox/assets/35997541/82cf7b54-580f-4805-81d8-814d8aea9d76)# ttrss-cubox
+
 
 ## 前言
 这是个基于ChatGPT4生成的脚本，本人零代码基础，代码是跑通了但估计是用脸在跑的
