@@ -7,7 +7,8 @@
 实现cubox订阅rss
 
 ## 效果预览
-![image](https://github.com/712346867/ttrss-cubox/assets/35997541/6ddaa8f7-2bf8-4373-8407-131f66ff42af)
+![image](https://github.com/712346867/ttrss-cubox/assets/35997541/faaaebf0-0b64-4e0a-92d6-987e676a9f79)
+
 
 ## 配置（更改代码中的以下信息）
 cubox_api_key = 'Cubox API 密钥'  # Cubox API 密钥
