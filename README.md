@@ -11,9 +11,11 @@
 
 
 ## 配置（更改代码中的以下信息）
+~~~
 cubox_api_key = 'Cubox API 密钥'  # Cubox API 密钥
 rss_url = 'RSS 源 URL'  # RSS 源 URL
 cubox_folder = '文件夹名称'  # Cubox 文件夹名称
+~~~
 
 ## 其他说明
 - 本代码部署到replit上，实现每3分钟检查一次，保持全天候在线运行
